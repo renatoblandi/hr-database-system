@@ -40,7 +40,7 @@ notes.
 
 ## Entity relationship diagram
 
-![ERD](c:\Users\renato\Pictures\Screenshots\database_ERD.png)
+![ERD](img/database_ERD.png)
 
 ## Schema notes
 
